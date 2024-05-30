@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;  
+    box-sizing: border-box;  
+}
+
+.conteiner{
+    margin: auto;
+    width: 100%;
+}
+
+body{
+    overflow: hidden;
+    
+}
+
+
+
+a:hover{
+    color: #e3070e;
+}
